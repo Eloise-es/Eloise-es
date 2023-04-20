@@ -9,7 +9,7 @@ I started Colt Steele's Web Developer Bootcamp course on Udemy on 1st September 
 *   🌍  I'm based in The Hague, Netherlands
 *   🖥️  See my portfolio at [Eloise.es](http://www.eloise.es)
 *   ✉️  You can contact me at [eloise.es@outlook.com](mailto:eloise.es@outlook.com)
-*   🧠  I'm currently building the final project of my bootcamp, using node.js, express, mongo DB and other tools
+*   🧠  I'm currently learning the fundamentals of React
 
 ### Skills 
 <p align="left">
