@@ -4,7 +4,7 @@ Hi 👋 My name is Eloise Salmon
 Language teacher turned web developer
 -------------------------------------
 
-I started Colt Steele's Web Developer Bootcamp course on Udemy on 1st September 2022. So far I have learned HTML, CSS and basic JavaScript and meanwhile I've been building my portfolio here on GitHub, putting into practice what I learn. I expect to finish my course in January 2023 so I'm looking for entry level roles or traineeships in front-end development. I'm also teaching English part time, to adults and children, and learning Dutch!
+I started Colt Steele's Web Developer Bootcamp course on Udemy on 1st September 2022. So far I have learned HTML, CSS and basic JavaScript and meanwhile I've been building my portfolio here on GitHub, putting into practice what I learn. I finished my course in March 2023 so I'm looking for entry level roles or traineeships in front-end development. In April 2023 I started studying a new course in React with Redux. I'm also teaching English part time, to adults and children, and learning Dutch!
 
 *   🌍  I'm based in The Hague, Netherlands
 *   🖥️  See my portfolio at [Eloise.es](http://www.eloise.es)
